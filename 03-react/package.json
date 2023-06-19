@@ -17,7 +17,7 @@
     "movie-api": "json-server --watch db.json --port 3001 --delay 1000",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --watchAll",
     "eject": "react-scripts eject"
   },
   "browserslist": {
@@ -33,6 +33,7 @@
     ]
   },
   "devDependencies": {
-    "babel-jest": "26.6.0"
+    "babel-jest": "26.6.0",
+    "jest": "^26.6.0"
   }
 }
