@@ -1,5 +1,12 @@
 # Mediastream challenge
 
+## Development considerations
+
+* Completed all 4 challenges.
+* Challenges 1 and 2 were time tested and different shapes and libraries were tested and the most optimal ones were chosen.
+* For challenge 3, with React, it was implemented in several reusable components and unit tests were added.
+* The dependency level issues with mongoose and EsLint for React have been found and resolved.
+
 ## Requisites
 
 * [Node.js 14.x](https://nodejs.org/en/)
